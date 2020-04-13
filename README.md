@@ -1,2 +1,2 @@
 # New-Rep
-This is a new repository
+Hi, I'm Ben and I like to play video games. How about you?
