@@ -29,4 +29,4 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
-        echo I'm Ben.
+        echo I'm Ben and I like to play video games. Do you like to play video games? Write your answers in the comments!
